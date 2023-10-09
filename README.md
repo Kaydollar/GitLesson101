@@ -4,6 +4,7 @@
 ## Config Git Bash  
 - git config --global user.name "Kolawole"
 - gif config --global user.name "yinusakolawole19@gmail.com"
+## Work with the Configured Environment
 - mkdir website  "this command help to create a directory"
 - cd website "this command is used to enter the directory"
 - git init "this command is used to initialize the directory"
